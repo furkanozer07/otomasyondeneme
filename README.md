@@ -1,3 +1,2 @@
 # otomasyondeneme
 otomasyondeneme
-Anıl topuz
